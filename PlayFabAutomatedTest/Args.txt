@@ -1,0 +1,11 @@
+﻿Arg sample 1: -titleId AB20
+Default is AB20 title, set other title if you want
+
+Arg sample 2: -opt cmu -mun 20
+Create 20 mock users
+
+Arg sample 3: -opt cmr
+Load all mock users and create mock requests
+
+Arg sample 4: -opt cmr -limit 20
+Create mock requests and up to 20 times
